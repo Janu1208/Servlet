@@ -14,8 +14,9 @@ if(message!=null)
 out.println(message);
 }
 %>
+<h2>  Login Page1 </h2> <br/> <br/>
 <form action="LoginServlet">
- Email:
+Email:
  <input type="email" name ="email" required/>
  <br/>
  Password:
